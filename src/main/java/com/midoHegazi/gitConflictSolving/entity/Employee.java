@@ -6,5 +6,6 @@ public class Employee {
 	public String firstName;
 	public String lastName;
 	public int salary;
+	public String telNumber;
 
 }
